@@ -31,9 +31,9 @@ Visualization and Analysis
 
 ## PROGRAM
 
-### Name:ASWIN L
+### Name:KISHORE G
 
-### Register Number:212224230028
+### Register Number:212223040099
 
 ```python
 # Autoencoder for Image Denoising using PyTorch
